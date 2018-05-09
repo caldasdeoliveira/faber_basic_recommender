@@ -1,5 +1,7 @@
 # faber_basic_recommender
 
+Create a "data" folder on the project root with the data and a "sets" folder inside
+
 Run
 
 python parse_to_csv.py
