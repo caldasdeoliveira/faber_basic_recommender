@@ -1,6 +1,6 @@
 # faber_basic_recommender
 
-Create a "data" folder on the project root with the data and a "sets" folder inside
+Create a "data" folder on the project root with the data and a "sets" folder inside.
 
 Run
 
@@ -19,3 +19,6 @@ Run
 python basic_recommender.py
 
 to run the recommender system
+
+
+This project requires both the pandas and numpy module.
